@@ -1,6 +1,6 @@
 "use strict"; //incorporating this 'expression' tells the browser to enable 'strict mode' - this mode helps ensure you write better code, for example, it prevents the use of undeclared variables.
 
-
+// salaam bro how r u i am undr da water
 //task 1 --------------
 //task 1.1 - download and setup the starter code (this project) from GitHub to a suitable (and remembered) location
 //task 1.2 - open the project (from its location) using a suitable editor (e.g., vscode or replit, etc)
